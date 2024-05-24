@@ -1,1 +1,1 @@
-/*TO DO
+This is a arduino board design using EagleCAD 
